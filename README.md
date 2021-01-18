@@ -1,2 +1,2 @@
 # cryptohack
-Solutions for cryptohack
+Solutions for cryptohack.org
